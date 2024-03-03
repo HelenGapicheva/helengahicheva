@@ -6,19 +6,22 @@
 ## Contact
 <div id="contact">
     <a href="https://t.me/gapart_h" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
     </a>
     <a href="mailto:ananas2.13@mail.ru" target="_blank">
-      <img src="https://github.com/HelenGapicheva/helengapicheva/blob/main/assets/mail.png" width="40" height="40" alt="Mail.ru Badge"/>
+      <img src="assets/mail.png" width="40" height="40" alt="Mail.ru"/>
     </a>
   </div>
 
 ## Follow me
 <div id="contact">
     <a href="https://t.me/gapart_h" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
     </a>
     <a href="https://vk.com/ananashell" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
+    </a>
+    <a href="https://www.instagram.com/helengapicheva/" target="_blank">
+      <img src="assets/instagram.png" width="40" height="40" alt="Instagram" />
     </a>
   </div>
