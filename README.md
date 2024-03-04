@@ -9,7 +9,7 @@
         <img src = "https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width = "40" height = "40" alt = "Telegram" />
     </a>
     <a href = "mailto:ananas2.13@mail.ru" target = "_blank" >
-        <img src = "https://github.com/HelenGapicheva/helengapicheva/blob/main/assets/mail2.png" width = "40" height = "40" alt = "Mail.ru" />
+        <img src = "https://github.com/HelenGapicheva/helengapicheva/blob/main/assets/mail.png" width = "40" height = "40" alt = "Mail.ru" />
     </a>
 
 # Follow me
@@ -41,7 +41,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="40" height="40" alt="Illustrator" />
     </a> 
     <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://commons.wikimedia.org/wiki/File:Procreate-icon.png" width="40" height="40" alt="Procreate" />
+        <img src="https://github.com/HelenGapicheva/helengapicheva/blob/main/assets/procreate.png" width="40" height="40" alt="Procreate" />
     </a> 
 </div>
 
