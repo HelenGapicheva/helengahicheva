@@ -36,5 +36,3 @@
       <img src="assets/instagram.png" width="40" height="40" alt="Instagram" />
     </a>
   </div>
-
-  
