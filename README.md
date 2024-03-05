@@ -51,6 +51,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HelenGapicheva&theme=tokyonight">
     <div>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HelenGapicheva&theme=tokyonight">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HelenGapicheva&theme=tokyonight">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelenGapicheva&theme=tokyonight">
     </div>
 </div>
