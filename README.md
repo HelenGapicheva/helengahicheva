@@ -48,9 +48,9 @@
 
 # 𝓜𝔂 𝓢𝓽𝓪𝓽
 <div id="Stat" align = "center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HelenGapicheva&theme=city_lights">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HelenGapicheva&theme=tokyonight">
     <div>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HelenGapicheva&theme=city_lights">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HelenGapicheva&theme=city_lights">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HelenGapicheva&theme=tokyonight">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HelenGapicheva&theme=tokyonight">
     </div>
 </div>
