@@ -45,7 +45,7 @@
         <img src="assets/procreate.png" width="40" height="40" alt="Procreate" />
     </a>
     <a href = "https://www.notion.so/">
-        <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40">
     </a>
 </div>
 
